@@ -6,8 +6,8 @@ mkdir dir1 dir2
 #endregion
 
 #region 2
-ls *.txt # ման ա գալի *.txt ֆայլերը
-ls * .txt # ման ա գալի ինչ-որ .txt ֆայլ ¯\_(ツ)_/¯
+ls *.txt # փնտրում է *.txt ֆայլերը
+ls * .txt # փնտրում է ինչ-որ .txt ֆայլ ¯\_(ツ)_/¯
 #endregion
 
 #region 3
